@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>shanmukhakumar - Portfolio/Resume</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="profile-image">
+            <img src="c:\Users\shanm\Downloads\shannu profile.jpeg" alt="Your Profile Picture">
+        </div>
+        <h1>BANDARU SHANMUKHAKUMAR</h1>
+        <p>FRESHER GRADUATE</p>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p> To succeed in an environment of growth and excellence and earn a job which provides me
+            job satisfaction and self development and help me achieve personal as well as
+            organizational goals</p>
+    </section>
+
+    
+
+    <section id="education">
+        <h2>Education-1</h2>
+        <div class="degree">
+            <h3>Btech</h3>
+            <p>information technology| 2024</p>
+            <p>sasi institute of engineering and technology .</p>
+        </div>
+        </section>
+     <section id="education">
+            <h2>Education-2</h2>
+            <div class="12th ">
+                <h3>Diplomo</h3>
+                <p>EEE| 2020</p>
+                <p>DNR COLLEGE OF ENGINEERING AND TECHNOLOGY </p>
+            </div>
+            </section>
+
+    <section id="skills">
+      <h2>Skills</h2>
+      <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JAVA</li>
+        <li>PYTHON</li>
+        <li>JAVASCRIPT</li>
+        <li>SQL</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3> Scintillating of Feeding and Monitoring in Aquaculture with cloud integration</h3>
+            <p>:IOTsensorsintegration,C++ Language,Thinkspeak(Cloud technology)
+                • Smart Aquaculture & Fish Feeding System (IOT): Led sensor integration and cloud
+                analysis for real-time monitoring and automated fish feeding, enhancing fish health and
+                reducing waste through IOT-driven automation and the entire through the cloud with
+                integration retrival data and accessible through the internet</p>
+            <a href="#">https://github.com/Shannu2016/SCINTILLATING-OF-FEEDING-AND-MONITORING-IN-AQUACULTURE_WITH-THINKSPEAK-CLOUD-DATA-STORAGE</a>
+        </div>
+        </section>
+
+    <section id="contact">
+        <h2>9603326739</h2>
+        <p>Email: shanmukhakumar552@gmail.com</p>
+        <p>LinkedIn: https://www.linkedin.com/in/shanmukhakumar-bandaru-781298253/</p>
+        <p>GitHub: https://github.com/Shannu2016</p>
+        </section>
+
+    <footer>
+        <p>&copy; 2024 BANDARU SHANMUKHAKUMAR</p>
+    </footer>
+
+</body>
+</html>
